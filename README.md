@@ -1,6 +1,5 @@
 <p align="left">Dart/Flutter developer, Discord enthusiast, LLM enjoyer.</p>
-
-###
+<p align="left">Check also https://peaashmeter.dev/.</p>
 
 <div align="center">
   <!--  <img src="https://github-readme-stats.vercel.app/api?username=peaashmeter&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=true&order=1&custom_title=Stats" height="150"  alt="stats graph"  /> -->
